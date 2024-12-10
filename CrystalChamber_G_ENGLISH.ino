@@ -19,7 +19,8 @@
 /*
 	
   Crystal Chamber
-  Version 1.1.G (04/12/2024)
+  Version 1.1.G 
+  (04/12/2024)
   By Voelho
   
   [English commented]
