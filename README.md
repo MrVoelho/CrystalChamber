@@ -8,8 +8,10 @@ The chamber is built with easily accessible components, utilizes silica gel as a
 A list of required components and the schematics to build your own Crystal Chamber are described in the Documentation File, together with the description of the control algorithm coded in the Arduino sketch (also fully commented) and some images for guidance.
 
 The project was designed in stages, from monitoring to humidity control and finally temperature control. So in case you don't have access to the full list of materials, or just want to start slowly, no problem. Check out the `Connections` section of the Documentation and adjust the sketch accordingly to what is available.
+
+Basic knowledge in electronics, including soldering and handling components, is required to build this project. 
 ## Operating
-Since crystal growing is a time-consuming process, the algorithm was designed for operation autonomy, to minimize the need for intervention. There are also some safety checks to ensure crystal quality (e.g. minimal humidity level) and operational conditions (e.g. in case of sensor failure). A description of the operational modes can also be found in the Documentation. 
+Since crystal growing is a time-consuming process, the algorithm was designed with autonomy in mind, to minimize the need for intervention. There are also some safety checks to ensure crystal quality (e.g. minimal humidity level) and operational conditions (e.g. in case of sensor failure). A description of the operational modes can also be found in the Documentation. 
 
 Once the chamber is set up, set the temperature and relative humidity exposition ranges on the Sketch, upload it to your arduino, load some dry silica gel in the desiccant container and go grow some crystals.
 
