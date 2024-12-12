@@ -4,6 +4,8 @@ Uma câmara DIY (Faça-você-mesmo) para crescimento de cristais salinos pelo m�
 A câmara é construída com componentes facilmente acessíveis, utiliza sílica gel como agente dissecante, uma pastilha termoelétrica para resfriamento e um Arduino para monitorar e regular as condições ambientais. Também inclui um display para controle e acompanhamento com quatro modos operacionais (Temperatura e umidade relativa, só temperatura, só umidade e sem controle). Além disso, um circuido de pesagem com célula de carga pode ser incorporado para medir diretamente a variação de massa da solução ao longo do tempo.
 
 > This project is also avaiable in english, check the "English" folder
+
+![Stripe](https://github.com/user-attachments/assets/7bcbd330-28e0-417c-8444-f9dd65262b67)
 ## Construção
 Uma lista dos componentes necessários e esquemáticos para construir sua própria Crystal Chamber estão no arquivo de Documentação, juntamente à descrição do algorítmo de controle no sketch Arduino (totalmente comentado) e algumas imagens para orientação.
 
@@ -16,7 +18,9 @@ Uma vez que o crescimento de cristais é um processo lento, o algorítmo foi des
 Uma vez que a câmara esteja pronta, ajuste as faixas de temperatura e umidade no sketch, faça upload para seu arduino, carregue um pouco de sílica gel no pote dessecante e cultive seus cristais!
 
 ## Um pouco de teoria
-Para mais informação sobre o crescimento de cristais de soluções salinas e a física por trás, veja o vídeo [Home-based science of crystal growing](https://youtu.be/u3r0Pdgs1Jw). Por enquanto disponível apenas em inglês.
+Para mais informação sobre o crescimento de cristais de soluções salinas e a física por trás, veja o vídeo [Home-based science of crystal growing](https://youtu.be/u3r0Pdgs1Jw). 
+
+Para mais conteúdo no hobby de crescimento de cristais, veja o [Reddit r/crystalgrowing](https://www.reddit.com/r/crystalgrowing/).
 
 ## ChangeLog
 v1.1.G (december/2024) 
