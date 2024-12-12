@@ -22,8 +22,8 @@ Para mais informação sobre o crescimento de cristais de soluções salinas e a
 
 Para mais conteúdo no hobby de crescimento de cristais, veja o [Reddit r/crystalgrowing](https://www.reddit.com/r/crystalgrowing/).
 
-## ChangeLog
-v1.1.G (december/2024) 
+## Change Log
+v1.1.G (dezembro/2024) 
 - Primeira versão publicada.
 
 ## License 
