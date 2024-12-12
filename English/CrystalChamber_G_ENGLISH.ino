@@ -88,8 +88,8 @@ int temperature[3];  // Temperature array
 unsigned char OPE;          // State control variable
 bool MAN = false;           // Flag that will signal if the system was in maintenance, to call for restart
 bool vSD = false;           // Variable that will wait for the presence of the SD card (true = present, false = not present)
-unsigned char visor = 0;    // Variable to track the display status (0 - off) (1 - operation) peracao) (2 - menu de MODO)
-char intSel = 0;            // Variable that will operate the interface selection (may be negaiva)
+unsigned char visor = 0;    // Variable to track the display status (0 - off) (1 - operation) (2 - mode select menu)
+char intSel = 0;            // Variable that will operate the interface selection (may be negative)
 unsigned char intLim = 0;   // Variable that stores the number of options to be selected
 unsigned char Uticks = 0;   // Variable that will delay the humidity control response to wait environmental response
 unsigned char SDticks = 0;  // Variable that will delay the writing to the SD card (0 = write)
