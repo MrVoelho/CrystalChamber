@@ -4,6 +4,8 @@ A DIY chamber designed for crystal growing through the evaporation method with t
 The chamber is built with easily accessible components, utilizes silica gel as a desiccant agent, a Peltier element for cooling, and an Arduino for monitoring and regulating the environmental conditions. It includes a display for exposition control with four operational modes (temperature and relative humidity, temperature only, humidity only, and no control). Additionally, a weight scale circuite can be incorporated to measure the mass variation of the solutions over time.
 
 > Este projeto também está disponível em português, consulte a pasta "Portugues"
+
+![Stripe](https://github.com/user-attachments/assets/7bcbd330-28e0-417c-8444-f9dd65262b67)
 ## Building
 A list of required components and the schematics to build your own Crystal Chamber are described in the Documentation File, together with the description of the control algorithm coded in the Arduino sketch (also fully commented) and some images for guidance.
 
@@ -17,6 +19,8 @@ Once the chamber is set up, set the temperature and relative humidity exposition
 
 ## Some theory
 For more information about crystal growing and the physics behind it, check the [Home-based science of crystal growing](https://youtu.be/u3r0Pdgs1Jw) video
+
+For more content on crystal growing hobby, check the [Reddit r/crystalgrowing](https://www.reddit.com/r/crystalgrowing/).
 
 ## ChangeLog
 v1.1.G (december/2024) 
